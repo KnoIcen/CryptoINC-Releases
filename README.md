@@ -2,7 +2,13 @@
 
 # CryptoINC
 
-**Десктоп‑приложение для торговли и анализа криптовалют на Binance**
+**Умная десктоп‑платформа для торговли и анализа криптовалют на Binance**
+
+**Локальный AI (Ollama) · Глубокая аналитика · Авто‑трейдер (по подписке/ключу) · 100% русский интерфейс**
+
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/KnoIcen/CryptoINC-Releases/releases/latest)
+[![Setup Guide](https://img.shields.io/badge/Guide-Setup%20Guide-2ea44f?style=for-the-badge)](./SETUP_GUIDE.md)
+[![Donate USDT TRC20](https://img.shields.io/badge/Donate-USDT%20TRC20-26A17B?style=for-the-badge)](#-поддержать-автора)
 
 </div>
 
@@ -12,17 +18,26 @@
 
 ## ⬇️ Скачать (Windows)
 
-Скачивание происходит **только через GitHub Releases**.
+Скачивание происходит **только через GitHub Releases** (без исходников).
 
-1) Открой страницу последней версии: `https://github.com/KnoIcen/CryptoINC-Releases/releases/latest`  
-2) Скачай файл `CryptoINC Setup ... .exe`  
-3) Запусти установку
+- Открой: `https://github.com/KnoIcen/CryptoINC-Releases/releases/latest`  
+- Скачай: `CryptoINC.Setup.*.exe`  
+- Запусти установку
 
 ### Если Windows ругается на установщик
 
 Для новых приложений без code‑sign сертификата Windows может показать предупреждение:
 
 - Нажми **Подробнее** → **Выполнить в любом случае**
+
+---
+
+## ✨ Что умеет (коротко)
+
+- **Binance Live**: список монет, цены, базовые метрики
+- **Аналитика**: график, ключевые уровни, метрики, объяснения
+- **AI‑помощник**: чат по трейдингу (опционально, зависит от настроек)
+- **Авто‑трейдер**: режимы риск‑профиля (планируется как платная функция по ключу/подписке)
 
 ---
 
@@ -54,7 +69,7 @@
 
 ## 📘 Инструкция по настройке (детально)
 
-Открой файл `SETUP_GUIDE.md` — там пошагово, “как для новичка”.
+Открой файл **[`SETUP_GUIDE.md`](./SETUP_GUIDE.md)** — там пошагово, “как для новичка”.
 
 ---
 
