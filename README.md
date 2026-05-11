@@ -14,7 +14,7 @@
 
 Скачивание происходит **только через GitHub Releases**.
 
-1) Открой страницу последней версии: `https://github.com/<OWNER>/<REPO>/releases/latest`  
+1) Открой страницу последней версии: `https://github.com/KnoIcen/CryptoINC-Releases/releases/latest`  
 2) Скачай файл `CryptoINC Setup ... .exe`  
 3) Запусти установку
 
