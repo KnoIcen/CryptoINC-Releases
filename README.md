@@ -4,7 +4,7 @@
 
 **Умная десктоп‑платформа для торговли и анализа криптовалют на Binance**
 
-**Локальный AI (Ollama) · Глубокая аналитика · Авто‑трейдер (по подписке/ключу) · 100% русский интерфейс**
+**Локальный AI (Ollama) · Глубокая аналитика · Авто‑трейдер (по подписке/ключу)**
 
 [![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/KnoIcen/CryptoINC-Releases/releases/latest)
 [![Setup Guide](https://img.shields.io/badge/Guide-Setup%20Guide-2ea44f?style=for-the-badge)](./SETUP_GUIDE.md)
