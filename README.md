@@ -20,6 +20,8 @@
 
 Скачивание происходит **только через GitHub Releases** (без исходников).
 
+**Исходный код и разработка:** [github.com/KnoIcen/CryptoINC](https://github.com/KnoIcen/CryptoINC) — здесь только установщик, скриншоты и инструкции для пользователей.
+
 - Открой: `https://github.com/KnoIcen/CryptoINC-Releases/releases/latest`  
 - Скачай: `CryptoINC.Setup.*.exe`  
 - Запусти установку
